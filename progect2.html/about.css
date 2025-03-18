@@ -38,7 +38,7 @@ margin-top: 20px;
 
 
 .us{
-max-height: 400px;
+max-height: 410px;
 background-color: rgb(233, 226, 213);
 border-radius: 30px;
 width: 100%;
@@ -48,11 +48,10 @@ margin-bottom: 80px;
 padding-bottom: 40px;
 }
 .our{
-display: inline-block;
+display:inline;
     font-family: fantasy;
     width: 90%;
-    font-size: 40px; 
-
+    font-size: 40px;
 }
 .our_text{
     width: 90%;

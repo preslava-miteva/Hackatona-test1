@@ -1,11 +1,137 @@
 .opisanie{
     width: 100%;
-    background-color: red;
     margin-left: -10px;
     justify-items: center;
+    align-content: center;
 }
 .ime{
     font-family: fantasy;
-    font-size: 30px;
+    font-size: 45px;
+    margin-bottom: 0px;
+}
+.opisan{
+    width: 700px;
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+}
+.all_chat{
+    width: 100%;
+    height: 650px;
+    background-color: rgb(247, 161, 172);;
+    margin-left: -10px;
+    margin-top: -30px;
+    justify-items: center;
+}
+.lets{
+    font-family:fantasy;
+    font-size: 60px;
+    margin-bottom: -40px;
+    padding-top: 20px;
 
+}
+.ch{
+    font-family:cursive;
+    font-weight: bolder;
+    font-size: 40px;
+}
+.merge{
+    display: grid;
+    margin-top: -18px;
+    grid-template-columns: 250px 300px 300px;
+    height: 150px;
+    justify-content: center;
+    width: 100%;
+}
+.phones{
+    justify-items: center;
+    margin-left: 150px;
+    margin-right: 20px;
+}
+.phone{
+    margin-bottom: -10px;
+    font-family: monospace;
+    font-size: larger;
+}
+.emals{
+    justify-items: center;
+    margin-left: 60px;
+}
+.email{
+    margin-bottom: -10px;
+    font-family: monospace;
+    font-size: larger;
+  padding-left: 60px;
+}
+.social_media1{
+   width: 35px;
+   mix-blend-mode: none;
+}
+.social_media{
+    padding-left: 30px;
+    width: 40px;
+    mix-blend-mode: none;
+    margin-top: 15px;
+ }
+ .name{
+    display: grid;
+    margin-top: -10px;
+    padding-left: 10px;
+    grid-template-columns: 250px 250px 250px;
+    justify-content: center;
+    width: 100%;
+    height: 110px;
+    margin-left: -10px;
+
+
+ }
+ .search-bars {
+    flex: 1;
+    height: 30px;
+    padding-left: 10px;
+    font-size: 16px;
+    border: none;
+    width: 200px;
+    justify-content: center;
+  }
+  .middle-sections {
+    width: 140px;
+    display: grid;
+    grid-template-rows: 50px 50px 30px;
+    align-items: center;
+  }
+.body{
+    min-width: 1000px;
+}
+.message{
+    width: 750px;
+    margin-top: 0px;
+}
+.search-barr{
+    flex: 1;
+    margin-top: 25px;
+    height: 80px;
+    padding-left: 10px;
+    font-size: 16px;
+    border: none;
+    width: 700px;
+}
+.send{
+  margin-top: 20px;
+  height: 40px;
+  width: 710px;
+  border: none;
+  background-color: rgb(155, 241, 204);
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 18px;
+  cursor: pointer;
+}
+.send:hover{
+    background-color: black;
+    color: white;
+}
+.search-barr:hover, 
+.search-bars:hover,
+.search-bar:hover{
+    border: 2px solid #000000;
 }
