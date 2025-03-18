@@ -62,13 +62,14 @@ font-family: 'Times New Roman', Times, serif;
     font-size: larger;
   padding-left: 60px;
 }
-.social_media1{
-   width: 35px;
-   mix-blend-mode: none;
-}
 .social_media{
-    padding-left: 30px;
-    width: 40px;
+    width: 35px;
+    mix-blend-mode: none;
+    margin-top: 15px;
+    padding-left: 10px;
+ }
+ .social_media1{
+    width: 35px;
     mix-blend-mode: none;
     margin-top: 15px;
  }

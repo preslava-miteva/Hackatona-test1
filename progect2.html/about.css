@@ -68,12 +68,14 @@ display:inline;
     background-color:  rgb(6, 43, 12);
     color: white;
     font-weight: bold;
+    display: grid;
+    justify-items: center;
 }
 .danni{
     justify-items: center;
 }
 .n{
-    padding-top: 40px;
+    padding-top: 10px;
     font-size: 50px;
     margin-bottom: 20px;
 }
@@ -88,3 +90,11 @@ display:inline;
     margin-left: 0px;
     margin-top: 80px;
     }
+    .social_mediaa{
+        width: 35px;
+        mix-blend-mode: none;
+        margin-top: 0px;
+        padding-left: 10px;
+        margin-top: -10px;
+        margin-bottom: 30px;
+     }
