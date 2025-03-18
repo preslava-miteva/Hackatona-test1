@@ -67,11 +67,13 @@ font-family: 'Times New Roman', Times, serif;
     mix-blend-mode: none;
     margin-top: 15px;
     padding-left: 11px;
+    cursor: pointer;
  }
  .social_media1{
     width: 35px;
     mix-blend-mode: none;
     margin-top: 15px;
+    cursor: pointer;
  }
  .name{
     display: grid;
