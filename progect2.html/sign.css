@@ -1,0 +1,11 @@
+.opisanie{
+    width: 100%;
+    background-color: red;
+    margin-left: -10px;
+    justify-items: center;
+}
+.ime{
+    font-family: fantasy;
+    font-size: 30px;
+
+}
