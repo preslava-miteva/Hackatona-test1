@@ -108,6 +108,7 @@ font-family: 'Times New Roman', Times, serif;
 .message{
     width: 750px;
     margin-top: 0px;
+    justify-content: center;
 }
 .search-barr{
     flex: 1;
