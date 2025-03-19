@@ -20,6 +20,7 @@ font-family: 'Times New Roman', Times, serif;
     background-color: rgb(247, 161, 172);;
     margin-left: -10px;
     margin-top: -30px;
+    display: grid;
     justify-items: center;
 }
 .lets{
