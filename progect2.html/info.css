@@ -1,6 +1,6 @@
 .video{
 width: 97%;
-background-color: rgba(77, 147, 228, 0.877);
+background-color:rgba(77, 147, 228, 0.877) ;
 display: grid;
 grid-template-rows: 1fr 2fr;
 column-gap: 20px;
@@ -121,7 +121,7 @@ width: 100%;
   }
   .oshte3 .tooltip {
     position: absolute;
-    background-color: rgba(248, 125, 125, 0.808);
+    background-color: rgba(238, 164, 164, 0.808);
     color: white;
     padding-top: 4px;
     padding-bottom: 4px;
